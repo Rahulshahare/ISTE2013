@@ -1,0 +1,28 @@
+@charset "utf-8";
+#apDiv1 .content .data .rules {
+	margin: 5px;
+	background-color: rgba(153,153,153,0.1);
+	border-radius:10px;
+}
+#apDiv1 .content .data .Ans {
+	margin: 5px;
+	background-color: rgba(153,153,153,0.1);
+	border-radius:10px;
+}
+#apDiv1 .content .data .Ans .backto.top {
+	margin: 5px;
+	text-align: right;
+}
+#apDiv1 .content .data .Ans .solution {
+	margin: 5px;
+}
+#apDiv1 .content .data .Ans .heading {
+	margin: 5px;
+	font-size: 15px;
+}
+#apDiv1 .content .data .rules ul li a {
+	color: rgba(255,255,255,1);
+}
+#apDiv1 .content .data .rules ul li a:hover{
+	color: rgba(0,0,255,1);
+}

@@ -1,0 +1,32 @@
+@charset "utf-8";
+.data {
+	float: left;
+	width: 78%;
+	margin-top: 5px;
+	margin-left: 5px;
+	text-align: left;
+	background-color: rgba(153,153,153,0.1);
+	border-radius:5px;
+}
+.point {
+	float: right;
+	width: 20%;
+	margin-top: 5px;
+	margin-right: 5px;
+	background-color: rgba(153,153,153,0.1);
+	border-radius: 5px;
+	overflow: auto;
+}
+.evnt {
+	margin: 2px;
+	border-bottom-width: thin;
+	border-bottom-style: dashed;
+	border-bottom-color: rgba(255,255,255,1);
+	padding: 5px;
+}
+#apDiv1 .content .data h2 {
+	text-align: center;
+}
+#apDiv1 .content .point h2 {
+	text-align: center;
+}

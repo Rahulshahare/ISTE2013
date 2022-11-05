@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/mst_pag.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>INNOVISION 2k13</title>
+<link href="../stylesheet/event_list.css" rel="stylesheet" type="text/css" />
+<!-- InstanceEndEditable -->
+<link rel="shortcut icon" href="images/favicon.ico" />
+
+<link href="../stylesheet/mst_pg.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+@import url("../webfonts/KottaOne_Regular/stylesheet.css");
+
+
+
+a:link {
+	color: rgba(255,255,255,1);
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: rgba(255,255,255,1);
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+	color: rgba(255,255,255,1);
+}
+body,td,th {
+	font-size: 18px;
+	font-family: "KottaOne Regular";
+}
+body {
+	background-image: url(../images/back.jpg);
+}
+#apDiv2 {
+	position: absolute;
+	width: 200px;
+	height: 115px;
+	z-index: 1;
+}
+
+#apDiv3 {
+	position: absolute;
+	left: 7px;
+	top: 84px;
+	width: 111px;
+	height: 293px;
+	z-index: 1;
+}
+#apDiv4 {
+	position: absolute;
+	left: 8px;
+	top: 8px;
+	width: 78px;
+	height: 97px;
+	z-index: 1;
+}
+#apDiv5 {
+	position: absolute;
+	left: 913px;
+	top: 179px;
+	width: 138px;
+	height: 116px;
+	z-index: 2;
+}
+#apDiv6 {
+	position: relative;
+	left: 0;
+	top: 150px;
+	width: 109px;
+	height: 83px;
+	z-index: 2;
+}
+</style>
+<!-- InstanceBeginEditable name="head" -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<!-- InstanceEndEditable -->
+</head>
+
+<body>
+
+<div id="apDiv4"><img src="../images/ISTE_logo.png" width="100" height="100" alt="ISTE" /></div>
+<div id="apDiv1">
+  <div class="head">
+    <div class="menu"><a href="../index.html">INNOVISION 2k13</a></div>
+    <div class="middle"><a href="../index.html">HOME</a> | <a href="../event.html">EVENTS</a>  | <a href="../register.html">REGISTER</a> | <a href="../contact.html">CONTACT</a></div>
+    <div class="last">On 18 <sup>th</sup> &amp; 19 <sup>th</sup> March'13</div>
+  </div>
+  <!-- InstanceBeginEditable name="content" -->
+  <div class="content"><!-- TemplateBeginEditable name="event file" -->
+    <div class="data">
+      <p>bbbbbbbbbbb</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+    </div>
+  <!-- TemplateEndEditable -->
+    <div class="point">
+      <h2>Events</h2>
+      <div class="evnt"><a href="../events/paper-presentation.html"><img src="../images/event_info/paper_presentation.png" width="150" height="48" alt="paper presentation" /></a></div>
+      <div class="evnt"><a href="../events/model-presentation.html"><img src="../images/event_info/model_making.png" width="150" height="48" alt="Model Making" /></a></div>
+      <div class="evnt"><a href="../events/poster_competition.html"><img src="../images/event_info/poster_competition.png" width="150" height="48" alt="poster presentation" /></a></div>
+      <div class="evnt"><a href="../events/ad-mad.html"><img src="../images/event_info/ad_mad.png" width="150" height="48" alt="ad-mad" /></a></div>
+      <div class="evnt"><a href="../events/scrap art.html"><img src="../images/event_info/scrap_art.png" width="150" height="48" alt="scrap art" /></a></div>
+      <div class="evnt"><a href="../events/tresure hunt.html"><img src="../images/event_info/tresure_hunt.png" width="150" height="48" alt="tresure hunt" /></a></div>
+      <div class="evnt"><a href="../events/Blind c.html"><img src="../images/event_info/blind c.png" width="150" height="48" alt="Blind c" /></a></div>
+      <div class="evnt"><a href="../events/robo race.html"><img src="../images/event_info/Robo_race.png" width="150" height="48" alt="robo race" /></a></div>
+      <div class="evnt"><a href="../events/circuitmaking.html"><img src="../images/event_info/circuit_making.png" width="150" height="48" alt="circuit" /></a></div>
+      <div class="evnt"><a href="../events/lan gaming.html"><img src="../images/event_info/lan_Gamming.png" width="150" height="48" alt="lan gaming" /></a></div>
+      <div class="evnt"><a href="../events/debate.html"><img src="../images/event_info/debate_competition.png" width="150" height="48" alt="Debate competition" /></a></div>
+      <div class="evnt"><a href="../events/line-follower.html"><img src="../images/event_info/line_follower.png" width="150" height="48" alt="line follower" /></a></div>
+
+    </div>
+  </div>
+  <!-- InstanceEndEditable --></div>
+<div id="footer">
+  <div class="left"><a href="mailto:help@innovision2k13.co.in">HELP</a> | <a href="../faq.html">FAQ</a>
+<div class="text">All Rights Reserved <a href="../index.html">www.innovision2k13.co.in</a></div>
+  </div>
+ 
+  <div class="rightt">Designed &amp; Developed by : <a href="https://www.facebook.com/rahulshahare" target="new" title="Rahul Shahare Engg. 4th year, RCERT, chandrapur"> Rahul Shahare</a> &amp; <a href="https://www.facebook.com/akad420?fref=ts" target="new">Akshay Deshpande</a></div>
+</div>
+</body>
+<!-- InstanceEnd --></html>

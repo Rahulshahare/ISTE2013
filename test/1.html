@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+<style type="text/css">
+.container {transform-style:preserve-3d; perspective:800; display:block; padding:10px; margin:10px;  }
+
+.one {transform:rotate(0)     translateZ(110px); display:block; padding:10px; margin:10px; }
+.two {transform:rotate(90deg)     translateZ(110px);  display:block; padding:10px; margin:10px;}
+.three {transform:rotate(180deg)     translateZ(110px); display:block; padding:10px; margin:10px; }
+.four {transform:rotate(270deg)     translateZ(110px); display:block; padding:10px; margin:10px;}
+</style>
+<link href="../SpryAssets/SpryValidationPassword.css" rel="stylesheet" type="text/css" />
+<script src="../SpryAssets/SpryValidationPassword.js" type="text/javascript"></script>
+</head>
+
+<body>
+<div class="container four one three"><img src="../images/event_info/ad_mad.png" /></div>
+<form id="form1" name="form1" method="post" action="">
+  <span id="sprypassword1">
+  <input type="password" name="password" id="password" />
+  <span class="passwordRequiredMsg">A value is required.</span><span class="passwordMinCharsMsg">Minimum number of characters not met.</span></span>
+</form>
+<div class="one"><img src="../images/event_info/circuit_making.png" /></div>
+<div class="two"><img src="../images/event_info/line_follower.png" /></div>
+<div class="three"><img src="../images/event_info/lan_Gamming.png" /></div>
+<div class="four"><img src="../images/event_info/model_making.png" /></div>
+<script type="text/javascript">
+var sprypassword1 = new Spry.Widget.ValidationPassword("sprypassword1", {validateOn:["blur", "change"], minChars:5});
+</script>
+</body>
+</html>

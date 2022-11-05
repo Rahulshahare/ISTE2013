@@ -1,0 +1,39 @@
+@font-face {
+	font-family: 'Playball Regular';
+	src: url('Playball-Regular.ttf') format('truetype');
+}#apDiv1 .content .le {
+	float: left;
+	width: 69%;
+}
+#apDiv1 .content .ri {
+	float: right;
+	width: 30%;
+}
+.title {
+	background-color: rgba(119,119,119,1)
+	text-align: center;
+	border-left-top-radius:5px;
+}
+#apDiv1 .content .left .contact {
+	padding: 2px;
+	margin-top: 10px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+}
+#apDiv1 .content .left .contact .name {
+	float: left;
+	width: 35%;
+	text-align: right;
+	padding-right: 15px;
+}
+#apDiv1 .content .left .contact .number {
+	float: left;
+	width: 32%;
+}
+
+#apDiv1 .content .left .contact .designation {
+	float: left;
+	width: 25%;
+	text-align: center;
+}
